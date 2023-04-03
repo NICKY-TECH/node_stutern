@@ -24,7 +24,6 @@
 
 5. npm init
 
-6. npm run <script-name>
+6. npm run script-name
 
-7. 
 
