@@ -1,0 +1,19 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NICKY-TECH/node_stutern.git"
+  },
+  "author": "justina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NICKY-TECH/node_stutern/issues"
+  },
+  "homepage": "https://github.com/NICKY-TECH/node_stutern#readme"
+}
