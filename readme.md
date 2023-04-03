@@ -3,22 +3,28 @@
 2.
 
 - Timers
+
   executes callbacks using timers. If there are timers set to 0 ms or setImmediate(), they will run here. Incomplete timers will run in later iterations of the loop.
 
 - Pending
+
   Internal phases of the event loop
 
 - idle/Prepare
+
   Internal phases of the event loop
 
 - poll
+
   processes I/O callbacks
 
 - Check
+
   execute any setImediate() timers added in the Poll phase
 
 - Close
-  oop continues if there are more timers or I/O calls. If all timers and I/O calls are done, the loop closes and the process ends.
+
+  loop continues if there are more timers or I/O calls. If all timers and I/O calls are done, the loop closes and the process ends.
 
 4. NPM5 is a package manager for javascript
 
